@@ -7,6 +7,11 @@ describe('Game', function() {
       var game = new gameOfLife.Game([[0]]);
       game.width.should.equal(1);
       game.height.should.equal(1);
-    });      
+    }); 
+    
+    it('Dead cell should be dead', function() {
+      var game = new gameOfLife.Game([[0]]);
+      game.next_state.should.equal([[0]]);
+    });     
   });    
 });
