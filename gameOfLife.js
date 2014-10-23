@@ -1,3 +1,8 @@
+exports.Game = function (array) {
+  this.height = array.length;
+  this.width = array[0].length;
+};
+
 var WIDTH = 10;
 var HEIGHT = 10;
 
