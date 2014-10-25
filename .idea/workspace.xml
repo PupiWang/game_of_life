@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5563e753-3e38-44c0-b120-3b5ccf300973" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ruby/game_of_life.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ruby/game_of_life_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/.npmignore" afterPath="$PROJECT_DIR$/js/node_modules/should/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/js/node_modules/should/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/History.md" afterPath="$PROJECT_DIR$/js/node_modules/should/History.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/LICENSE" afterPath="$PROJECT_DIR$/js/node_modules/should/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/Readme.md" afterPath="$PROJECT_DIR$/js/node_modules/should/Readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/.travis.yml" afterPath="$PROJECT_DIR$/js/node_modules/should/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/.zuul.yml" afterPath="$PROJECT_DIR$/js/node_modules/should/.zuul.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/ext/assert.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/ext/assert.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/assertion-error.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/assertion-error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/assertion.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/assertion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/ext/bool.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/ext/bool.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/ext/chain.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/ext/chain.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/ext/contain.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/ext/contain.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/eql.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/eql.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/ext/eql.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/ext/eql.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/ext/error.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/ext/error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/gulpfile.js" afterPath="$PROJECT_DIR$/js/node_modules/should/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/index.js" afterPath="$PROJECT_DIR$/js/node_modules/should/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/inspect.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/inspect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/ext/match.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/ext/match.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/ext/number.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/ext/number.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/ext/property.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/ext/property.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/js/node_modules/should/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/should.js" afterPath="$PROJECT_DIR$/js/node_modules/should/should.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/should.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/should.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/.idea/libraries/should_js_node_modules.xml" afterPath="$PROJECT_DIR$/js/node_modules/should/.idea/libraries/should_js_node_modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/ext/string.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/ext/string.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/ext/type.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/ext/type.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/util.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/util.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/node_modules/should/lib/warn.js" afterPath="$PROJECT_DIR$/js/node_modules/should/lib/warn.js" />
+    </list>
+    <ignored path="mediastack_dbg_output.txt.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mediastack_dbg_output.txt" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="game_of_life.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ruby/game_of_life.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="game_of_life_test.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ruby/game_of_life_test.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="802">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gameOfLife.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mediastack_dbg_output.txt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mediastack_dbg_output.txt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mediastack_dbg_output.txt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ruby" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mediastack_dbg_output.txt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mediastack_dbg_output.txt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5563e753-3e38-44c0-b120-3b5ccf300973" name="Default" comment="" />
+      <created>1414070675974</created>
+      <updated>1414070675974</updated>
+    </task>
+    <task id="LOCAL-00001" summary="pass test 2">
+      <created>1414081399565</created>
+      <updated>1414081399565</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update structure">
+      <created>1414164958114</created>
+      <updated>1414164958114</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="pass test 2" />
+    <MESSAGE value="update structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="update structure" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/gameOfLife.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="1740">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/gameOfLife.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6052632" vertical-offset="901" max-vertical-offset="1740">
+          <caret line="80" column="69" selection-start-line="80" selection-start-column="69" selection-end-line="80" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/game_of_life.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby/game_of_life_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="802">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
