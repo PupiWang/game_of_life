@@ -9,7 +9,7 @@ class Game
     elsif @init_grid.length == 2
       [[0], [0]]
     else
-      if @init_grid[0] == [0]
+      if @init_grid[0] == [0] || @init_grid[1] == [0]
         [[0], [0], [0]]
       else
         [[0], [1], [0]]
