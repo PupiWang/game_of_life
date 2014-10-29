@@ -57,5 +57,14 @@ describe 'Game' do
 		assert_grid [[1],[0],[1]],
 					[[0],[0],[0]]
     end
+
+	it 'One alive cell should be dead' do
+		assert_grid [[0],[0],[1]],
+				    [[0],[0],[0]]
+		assert_grid [[0],[1],[0]],
+					[[0],[0],[0]]
+    end
+
+
   end
 end
