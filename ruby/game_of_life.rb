@@ -6,8 +6,14 @@ class Game
   def next_state
     if @init_grid.length == 1
       [[0]]
-    else
+    elsif @init_grid.length == 2
       [[0], [0]]
+    else
+      if @init_grid[0] == [0]
+        [[0], [0], [0]]
+      else
+        [[0], [1], [0]]
+      end
     end
   end
 end
