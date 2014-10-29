@@ -20,12 +20,12 @@ describe 'Game' do
   context 'Two Cell' do
 
     it 'two dead cells should be dead' do
-      game = Game.new[[0],[0]]
+      game = Game.new [[0],[0]]
       expect(game.next_state).to eq([[0],[0]])
     end
 
     it 'two alive cells should be dead' do
-      game = Game.new[[1],[1]]
+      game = Game.new [[1],[1]]
       expect(game.next_state).to eq([[0],[0]])
     end
 
